@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Work Tooling",
-  description: "Tools for making work easier",
+  title: "Red Panda Tooling",
+  description: "Tools for making work from your favorite red panda",
 };
 
 export default function RootLayout({
